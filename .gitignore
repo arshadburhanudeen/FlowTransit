@@ -1,0 +1,20 @@
+# Java compiler output
+*.class
+
+# Maven build output
+target/
+
+# React/Vite dependencies and generated output
+node_modules/
+dist/
+
+# Local secrets and machine-specific environment
+.env
+.env.*
+!.env.example
+
+# Runtime logs
+*.log
+
+# Personal VS Code workspace settings
+.vscode/
